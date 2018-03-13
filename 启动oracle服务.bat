@@ -1,0 +1,2 @@
+sc start OracleServiceORCL
+sc start OracleOraDb11g_home1TNSListener

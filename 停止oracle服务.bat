@@ -1,0 +1,2 @@
+sc stop OracleServiceORCL
+sc stop OracleOraDb11g_home1TNSListener
